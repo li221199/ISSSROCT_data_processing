@@ -1,0 +1,3 @@
+single point
+avg: 8 (1 when raw)
+ref: 16
